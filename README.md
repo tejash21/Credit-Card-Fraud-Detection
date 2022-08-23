@@ -1,4 +1,4 @@
-<h1 align="center">Anomaly Detection In Credit Card Fraud </h1>
+<h1 align="center">Detection In Credit Card Fraud </h1>
 
 <br>
 
